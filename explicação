@@ -1,0 +1,13 @@
+Professor, representei minhas cores em numeros, eu pretendia tentar fazer cores no terminal conforme algumas explicações que achei, mas vi que
+era algo que podia dar problema de acordo com versões diferentes do linux, então deixei em números.
+
+
+Ex: bar.cc, linha 4, classe (e herança).
+CLasses e atributos -> Classes.hpp
+Associação por agregação -> Classes.hpp, linha 77 da classe codemaker.
+Alocação dinâmica de memória (aplicação do uso de ponteiros inteligentes) -> Main.cpp, linha 90 e 92.
+Herança -> Classes.hpp, linha 27.
+
+
+
+
